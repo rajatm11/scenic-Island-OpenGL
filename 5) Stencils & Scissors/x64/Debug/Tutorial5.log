@@ -1,0 +1,12 @@
+﻿  Source.cpp
+H:\Desktop\CSC8502 2021\5) Stencils & Scissors\Source.cpp(52,38): warning C4244:  'argument': conversion from 'float' to 'GLsizei', possible loss of data
+H:\Desktop\CSC8502 2021\5) Stencils & Scissors\Source.cpp(52,16): warning C4244:  'argument': conversion from 'float' to 'GLsizei', possible loss of data
+H:\Desktop\CSC8502 2021\5) Stencils & Scissors\Source.cpp(51,48): warning C4244:  'argument': conversion from 'float' to 'GLint', possible loss of data
+  tutorial5.cpp
+  Generating Code...
+H:\Desktop\CSC8502 2021\5) Stencils & Scissors\Source.cpp(51,26): warning C4244:  'argument': conversion from 'float' to 'GLint', possible loss of data
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(stb_image_aug.obj)' or at 'H:\Desktop\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(SOIL.obj)' or at 'H:\Desktop\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_helper.obj)' or at 'H:\Desktop\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'H:\Desktop\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  Tutorial5.vcxproj -> H:\Desktop\CSC8502 2021\x64\Debug\Tutorial 05 - Scissors and Stencils.exe

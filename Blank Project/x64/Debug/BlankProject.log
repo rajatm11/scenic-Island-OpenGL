@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BlankProject.cpp
+  Renderer.cpp
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(176,19): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(174,47): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(187,20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(185,38): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(462,55): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(681,37): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Coursework\latest graphics\Blank Project\Renderer.cpp(691,57): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating Code...
+  BlankProject.vcxproj -> D:\Coursework\latest graphics\x64\Debug\CourseWork.exe

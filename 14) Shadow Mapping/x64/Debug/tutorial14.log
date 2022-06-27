@@ -1,0 +1,9 @@
+﻿  Renderer.cpp
+  tutorial14.cpp
+  Generating Code...
+  LINK : H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\Tutorial 14 - Shadow Mapping.exe not found or not built by the last incremental link; performing full link
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(stb_image_aug.obj)' or at 'H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(SOIL.obj)' or at 'H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_helper.obj)' or at 'H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  tutorial14.vcxproj -> H:\Downloads\HOME\OneDrive_2021-11-16\CSC8502 2021\x64\Debug\Tutorial 14 - Shadow Mapping.exe
